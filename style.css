@@ -66,6 +66,7 @@ h1{
     font-family: 'Montserrat', sans-serif;
     font-size: 2.5vh;
     color: gray;
+    padding-top: 1vh ;
 }
 @media screen and (max-width:750px) {
     .header{
@@ -95,7 +96,11 @@ h1{
     .footer{
         max-width: 90%;
         font-size: 2vh;
-        justify-content: center;
-        margin: 30px auto;
+        text-align: center;
+        margin: 0 auto;
+    }
+    .end{
+        width: 100%;
+        height: 10px;
     }
 }
