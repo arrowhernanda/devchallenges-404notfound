@@ -79,6 +79,7 @@ h1{
     }
     .note{
         width: 85%;
+        margin-top: 10%;
     }
     h1{
         font-size: 5vh;
@@ -92,6 +93,6 @@ h1{
         max-width: 90%;
         font-size: 2vh;
         justify-content: center;
-        padding-bottom: 0.5vh;
+        margin-top: 10%;
     }
 }
